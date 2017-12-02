@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    margin: 2em auto;
+    color: rgb(156, 28, 28);
+    font-family: cursive;
+    text-shadow: .02em .02em lightslategrey; 
+    border: 2px solid red;
+    box-shadow: .05em .05em .1em green; 
+}
+div {
+    text-align: center;
+}
+p {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 1em;
+    padding: 0 .3em;
+    margin: 0;
+}
